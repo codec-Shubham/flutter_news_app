@@ -15,13 +15,11 @@ This project is a news application .The aim of the project is to provide a news 
 The application contains various categories of news and for easy navigation the different categories buttons are provided.This is very benifical application for person who read news daily and keep himself updated with news daily.  
 ### Screenshot
 [Home Page](![Screenshot (69)](https://user-images.githubusercontent.com/90133900/209572091-df6b6eb7-6cd1-4258-b8d2-1a7895c0e2ee.jpeg)
-
+<br>
 [Drawer Screen](![Screenshot (69)](https://user-images.githubusercontent.com/90133900/209572178-7602f587-a2ab-4d57-9868-3020c6d516e9.jpeg)
 
 [Web view detailed news](![Screenshot (69)](https://user-images.githubusercontent.com/90133900/209572338-9a4d94c0-0a92-420d-8b56-dcb496873731.jpeg)
-
 [Search Functionality](![Screenshot  (71)](https://user-images.githubusercontent.com/90133900/209572496-3c0d9b6e-75c0-4eb1-b30d-9f278f981e3f.jpeg) 
-
 
 [Search Result](![Screenshot  (71)](https://user-images.githubusercontent.com/90133900/209572410-2cc68e7c-f424-4cf7-8007-ea1e9e4e0cea.jpeg)
 
